@@ -1,0 +1,15 @@
+name: Stem
+author: Chris Prime
+main: stem\Stem
+description: "Package controller for pocketmine"
+api:
+ - 2.0.0
+ - 2.1.0
+version: 1.0.0
+
+commands:
+ stem:
+  description: "Control command for Stem"
+  usage: "/stem <action> [...arguments]"
+ 
+  

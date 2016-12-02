@@ -1,2 +1,2 @@
 # Stem
-PocketMine plugin and library manager
+PocketMine helper for developers
